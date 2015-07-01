@@ -1,4 +1,4 @@
-# Ukrainian-Russian Keyaboard Layout
+# Ukrainian-Russian Keyboard Layout
 
 Historically Ukrainian and Russian languages are phonetically very close differing only by a few letters so many Ukrainians speak Russian language. To leverage this fact I've created a keyboard which allows to enter Russian characters by pressing the ⌥  (Option) modifier: ⌥ + і then outputs ы etc
 
