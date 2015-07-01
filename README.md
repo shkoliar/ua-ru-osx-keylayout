@@ -16,4 +16,4 @@ Restart the computer. Logging out and back in is not enough
 
 Enable the new keyboard layout from System Preferences (look for the "Others" section)
 
-### Hope you will find this layout useful!
+#### Hope you will find this layout useful!
