@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 2.1.6 on 2011-07-09 at 03:00 (GMT+03:00)-->
-<!---->
-<keyboard group="7" id="19456" name="Украина" maxout="1">
+<keyboard group="7" id="19456" name="Українська" maxout="1">
     <layouts>
         <layout first="0" last="0" modifiers="30" mapSet="138"/>
     </layouts>
