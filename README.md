@@ -10,10 +10,20 @@ Historically Ukrainian and Russian languages are phonetically very close differi
 
 ## Installation
 
-Move the keyboard layout to /Library/Keyboard Layouts/. Keyboard layouts in ~/Library/Keyboard Layouts/ can't be selected in password dialogs or on the login window
+Move the keyboard layout `Ukraine.keylayout` and icons file `Ukraine.icns` to `/Library/Keyboard Layouts/` directory. 
 
-Restart the computer. Logging out and back in is not enough
+    git clone https://github.com/DmitryNek/ua-ru-osx-keylayout.git
+    cd ua-ru-osx-keylayout/
+    sudo cp Ukraine.{icns,keylayout} /Library/Keyboard\ Layouts/
 
-Enable the new keyboard layout from System Preferences (look for the "Others" section)
+Restart the computer.
+
+Enable the new keyboard layout from System Preferences->Keyboard->Input Sources (press + and look for the "Others" section)
+
+Reboot the computer once more to apply keyboard layout changes for all applications.
+
+If you want to add own changes to keyboard layout, feel free to edit it. You can use any text editor or [Ukelele][0] keyboard layout tool.
 
 #### Hope you will find this layout useful!
+
+[0]: http://scripts.sil.org/ukelele
