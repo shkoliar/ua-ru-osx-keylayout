@@ -410,7 +410,7 @@
             <key code="8" output="≠"/>
             <key code="9" output="µ"/>
             <key code="10" output="§"/>
-            <key code="11" output="и"/>
+            <key code="11" output="₴"/>
             <key code="12" output="ј"/>
             <key code="13" output="џ"/>
             <key code="14" output="ќ"/>
@@ -522,7 +522,7 @@
             <key code="8" output="≠"/>
             <key code="9" output="µ"/>
             <key code="10" output="±"/>
-            <key code="11" output="И"/>
+            <key code="11" output="₽"/>
             <key code="12" output="Ј"/>
             <key code="13" output="Џ"/>
             <key code="14" output="Ќ"/>
