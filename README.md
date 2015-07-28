@@ -2,11 +2,18 @@
 
 Historically Ukrainian and Russian languages are phonetically very close differing only by a few letters so many Ukrainians communicate in Russian language as well. To leverage this fact I've created a keyboard which allows to enter Russian characters by pressing the ⌥  (Option) modifier: ⌥ + і then outputs ы etc
 
-## Full modifiers list
+## Modifiers list
 * ⌥ + і = ы
 * ⌥ + ї = ъ
 * ⌥ + є = э
 * ⌥ + ґ = ё
+
+## Curencies shortcuts
+* ⌥ + и = ₴
+* ⌥ + 4 = $
+* ⌥ + ⇪ + и = ₽
+* ⌥ + ⇪ + 3 = £
+* ⌥ + ⇪ + 4 = €
 
 ## Installation
 
