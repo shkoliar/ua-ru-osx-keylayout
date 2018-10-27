@@ -19,7 +19,7 @@ Historically Ukrainian and Russian languages are phonetically very close differi
 
 Move the keyboard layout `Ukraine.keylayout` and icons file `Ukraine.icns` to `/Library/Keyboard Layouts/` directory. 
 
-    git clone https://github.com/DmitryNek/ua-ru-osx-keylayout.git
+    git clone https://github.com/shkoliar/ua-ru-osx-keylayout.git
     cd ua-ru-osx-keylayout/
     sudo cp Ukraine.{icns,keylayout} /Library/Keyboard\ Layouts/
 
